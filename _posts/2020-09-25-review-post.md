@@ -3,7 +3,7 @@ layout: post
 title: Review Post
 ---
 
-# EMED Review
+# Review: _A Digital Anthology of Early Modern English Drama_
 
 Project: A Digital Anthology of Early Modern English Drama  
 Project Director: Kathleen Lynch  
