@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review Post
+title: Review
 ---
 
 # Review: _A Digital Anthology of Early Modern English Drama_
