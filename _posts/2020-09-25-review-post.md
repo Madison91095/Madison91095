@@ -5,9 +5,9 @@ title: Review Post
 
 # EMED Review
 
-Project: A Digital Anthology of Early Modern English Drama
-Project Director: Kathleen Lynch
-Project URL: https://earlymodernenglishdrama.folger.edu/
+Project: A Digital Anthology of Early Modern English Drama  
+Project Director: Kathleen Lynch  
+Project URL: https://earlymodernenglishdrama.folger.edu/  
 
 _A Digital Anthology of Early Modern English Drama_ (EMED) is a digital humanities project centered around performance and plays from 16th and 17th century England. Created under project director Kathleen Lynch of the Folger Shakespeare Library, it is comprised of 403 surviving performed texts from 1576 to 1642. These works are not Shakespeare’s but rather those from other playwrights of the time. Through tools such as Folger Digital Texts API, Open Refine, GeoNames, and more, the texts themselves and a large assortment of resources have been brought together with the goal of presenting early modern English performance to a wide variety of audiences.
 
